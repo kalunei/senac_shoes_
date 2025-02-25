@@ -6,15 +6,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 `
 ------------------------------------------------------------------------------------------------------------------------------
 ### AULA 01
@@ -33,14 +24,6 @@
 
 2.``camelCase`` --> Primeira letra da palavra em minúscula e todas as otras maiúscula (mesmo obj de separação do "_").
 ------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
 
 
 
@@ -75,13 +58,6 @@ F-string --> EX: print(F"O nome do usuário é{nome} e a idade dele é {idade}")
 
 
 
-
-
-
-
-
-
-
 `
 ------------------------------------------------------------------------------------------------------------------------------
 ### Aula 03
@@ -97,10 +73,13 @@ F-string --> EX: print(F"O nome do usuário é{nome} e a idade dele é {idade}")
 
 
 
+`
+------------------------------------------------------------------------------------------------------------------------------
+### Aula 04
 
 
-
-
+`
+------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -120,6 +99,70 @@ F-string --> EX: print(F"O nome do usuário é{nome} e a idade dele é {idade}")
 
 # 2 - 
 `while` = será usado quando não se sabe qts. vezes o loop irá se repetir
+
+`
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+`
+------------------------------------------------------------------------------------------------------------------------------
+### Aula 06
+
+
+## FUNÇÕES 
+    => Bloco de código que é reutilizável. Serve para deixar o código mais organizado e eficiente.Executam uma tarefa específica.
+
+
+`
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+`
+------------------------------------------------------------------------------------------------------------------------------
+### Aula 07
+## 1. Princípios da Programação Orientada a Obejetos (P.O.O.)
+1- Encapsulamento 
+2- Herança  -> É um conceito de POO que permite que uma classe herde atributos e métodos de outra, evitando a repetição de código.
+3- Polimorfismo
+4- Abstração
+
+
+## Palavras Reservadas Em POO
+1- Class --> É uma palavra reservada em py onde vc cria um `molde`. Toda classe pode ter atributos e métodos, sendo que os atributos precisam estar
+dentro de um método chamado construtor (__int__)
+2- Object  --> É o nome dado a cada `cópia` da classe. Também conhecido como instância.
+3- __init__ --> É um inicializador(construtor) onde você informa que toda cópia precisa passar 
+4- self --> referencia o atributo atual da classe (o valor)
+5- 
+
+
+## Termos Utilizados Em POO 
+1- Método -> É uma função que está dentro de uma classe. É uma ação.
+2- Atributo -> São as características de ma classe 
+
+
+## Herança 
+Teremos 2 tipos de classes :
+ - supclass ; É a classe pai que oferece a herança.
+ - subclass ; É a classe filha que herda a herança.
+
+`
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+`
+------------------------------------------------------------------------------------------------------------------------------
+### Aula 0
+
 
 `
 ------------------------------------------------------------------------------------------------------------------------------
